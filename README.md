@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Benn, a Software Engineer, I'm currently working on ML Infra, ML Pipeline and Data Engineering.
+🔭 I’m Benn, a FullStack Engineer in TheNetCircle, I'm currently working on ML Infra, ML Pipeline and Data Engineering.
 
 <!--
 **baineng/baineng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
