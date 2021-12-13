@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m Benn, a FullStack Engineer, I have been working on different parts of the software lifecycle with different programming languages for over a decade, currently I am interested in and working on Distributed System, Data Platform Design, Machine Learning and MLOps.
+🔭 I’m Benn, a FullStack Engineer, I have been working on different parts of software lifecycle with different programming languages for over a decade, currently I am interested in and working on Distributed System, Data Platform Design, Machine Learning and MLOps.
 
 <!--
 **baineng/baineng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
